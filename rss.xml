@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[W's Artwork]]></title>
         <description><![CDATA[W's Artwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wataruitoartwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 20:19:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 20:42:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wataruitoartwork/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wall]]></title>
+            <description><![CDATA[<article><h1>The Wall</h1><p>The Wall Painting</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55f9fc85-7895-4dc8-8505-3a7a7dc9feac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wataruitoartwork/the-wall/index.html</link>
+            <guid isPermaLink="false">fbc4226d-beeb-473e-9c9a-7df747577753</guid>
+            <pubDate>Sun, 24 Jan 2016 20:42:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a4d419-0dfa-4c49-8e98-02fc70213367.jpg">]]></description>
-            <link>undefined477c78e4-2c57-4e83-961f-36a94c807c0d/index.html</link>
+            <link>https://thegrid.ai/wataruitoartwork/477c78e4-2c57-4e83-961f-36a94c807c0d/index.html</link>
             <guid isPermaLink="false">477c78e4-2c57-4e83-961f-36a94c807c0d</guid>
             <pubDate>Sun, 24 Jan 2016 20:19:41 GMT</pubDate>
         </item>
