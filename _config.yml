@@ -1,7 +1,7 @@
 name: wataruitoartwork
 favicon: null
-layout_spectrum: 0.02228661999106407
-typography_spectrum: 0.11511103087104857
+layout_spectrum: 0.92068
+typography_spectrum: 1
 title: "W's Artwork"
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.1745318891480565
+  brandStrength: 0.125
   lightness: 0.2193231990095228
   saturation: 0.5839057790581137
   rhythmicContrast: 0.5346838473342359
